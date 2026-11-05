@@ -1,0 +1,51 @@
+# Ada / Alire
+obj/
+bin/
+alire/
+config/
+*.ali
+*.o
+
+# Rust
+target/
+
+# Kotlin / Scala / Groovy / JVM
+build/
+.gradle/
+out/
+*.class
+*.jar
+
+# Haskell
+dist-newstyle/
+.stack-work/
+
+# OCaml
+_build/
+
+# Elixir / Erlang
+_build/
+deps/
+*.beam
+
+# Zig / Nim / D
+zig-cache/
+.zig-cache/
+zig-out/
+nimcache/
+.dub/
+*.exe
+*.obj
+
+# Swift
+.build/
+
+# Clojure
+.cpcache/
+
+# IDE и система
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
