@@ -1,3 +1,3 @@
-# Запись выступления
+# Видеодемонстрация
 
-Ссылка на видео: https://drive.google.com/drive/folders/1AoJfZb99qXYfrR5pO0vaVzcC2CSa8LQI?hl=ru
+Ссылка на видео: https://drive.google.com/drive/u/0/folders/1kfdEunlBYemILyogb-PQlxOumu91k0LM
