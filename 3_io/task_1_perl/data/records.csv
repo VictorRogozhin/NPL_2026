@@ -1,0 +1,7 @@
+id,name,note
+A1,Alice,"first, kept"
+A1,Alicia,duplicate
+a1,Bob,"said ""hello"""
+" A1",Carol,"two
+lines"
+B2,Dan,last
