@@ -1,0 +1,4 @@
+{:vertices [:s :a :b :t]
+ :source :s
+ :sink :t
+ :edges [[:s :a 1] [:s :b 1] [:a :b 1] [:a :t 1] [:b :t 1]]}
