@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.6176, 55.7558]},
+      "properties": {"name": "Center, \"North\"", "active": true, "altitude": 144}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [30.3351, 59.9343]},
+      "properties": {"name": "Riverside", "note": "first line\nsecond line", "altitude": null}
+    }
+  ]
+}
