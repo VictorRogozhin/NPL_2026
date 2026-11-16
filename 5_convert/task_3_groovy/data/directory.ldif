@@ -1,0 +1,11 @@
+dn: uid=alice,ou=people
+cn: Alice, "QA"
+description: First
+  line continued
+tag: R&D;West
+tag: C:\ops
+
+dn: uid=bob,ou=people
+cn: Bob
+mail: bob@example.org
+tag: internal
